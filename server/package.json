@@ -1,0 +1,23 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "description": "Shop boilerplate(based on TS, React, NodeJS, MongoDB)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Volkov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.8",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.1",
+    "@types/mongodb": "^3.0.5"
+  }
+}
